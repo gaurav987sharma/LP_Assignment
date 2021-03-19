@@ -1,0 +1,59 @@
+.back-sky {
+    background-color: #9fe0e6;
+    height: 30px
+}
+.wrapper{
+    margin-left: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-top: -30px;
+    border-radius: 30px !important;
+}
+
+.left-bold-inline{
+    float: left;
+    margin: 1%  !important;
+    display: inline-flex !important;
+}
+.right-bold-inline{
+    float: right;
+    margin: 1%  !important;
+    display: inline-flex !important;
+}
+.plane{
+    margin: 1% im !important
+}
+.hr-rule{
+    border-top: 3px solid black;
+    width: 100%;
+}
+.hr-width{
+    width: 100%;
+}
+.ul-rule{
+    color: #62b5aa;
+    font-size: 24px
+}
+.expand-less-icon{
+    color: #62b5aa;
+    text-align: center;
+}
+.healthy-fruits{
+    padding-left: 22px;
+    border-left: 2px solid;
+}
+.remove-icon{
+    margin: 14px;
+}
+.top-icon{
+    display: flex
+}
+.p-bold{
+    font-weight: bold;
+    font-size: 12px;
+    opacity: 0.8;
+}
+.p{
+    font-size: 12px;
+    opacity: 0.5;
+}
